@@ -1,0 +1,221 @@
+﻿ProductID,ProductName,Category,Brand,IsGeneric,PackSize,LaunchDate,IsDiscontinued,ListPriceEUR,StandardCostEUR
+PR0001,CareEquip Glucose Test Strips Compact,Medical Devices,CareEquip,No,1 unit,2018-04-09,No,10.14,8.19
+PR0002,Medica Nasal Spray 100 mg,OTC,Medica,No,200 ml,2015-08-21,No,7.03,5.52
+PR0003,VitaCare Vitamin C 100 mg,OTC,VitaCare,No,30 tablets,2022-11-22,No,13.42,10.69
+PR0004,DermaSoft Shampoo Repair,Personal Care,DermaSoft,No,100 ml,2018-01-10,No,15.13,8.83
+PR0005,CleanWave Moisturizer Sensitive,Personal Care,CleanWave,No,250 ml,2025-08-11,No,14.29,10.56
+PR0006,PainLess Allergy Tabs 400 mg,OTC,PainLess,No,20 tablets,2025-03-03,No,13.34,10.49
+PR0007,EuroRelief Antacid 500 mg,OTC,EuroRelief,No,10 tablets,2016-12-08,No,17.04,11.23
+PR0008,ThermoSense Knee Brace Compact,Medical Devices,ThermoSense,No,10 strips,2020-10-22,No,63.28,51.82
+PR0009,NeuroMed Inhaler 200 mg,Prescription,NeuroMed,Yes,50 g,2025-06-20,No,13.88,10.13
+PR0010,CleanWave Body Wash Bright,Personal Care,CleanWave,No,75 ml,2017-12-18,No,19.12,14.09
+PR0011,EuroRelief Vitamin C 20 mg,OTC,EuroRelief,No,10 tablets,2020-01-07,No,10.4,6.9
+PR0012,DermRx Antidepressant 100 mg,Prescription,DermRx,No,1 pen,2022-02-17,No,53.27,44.62
+PR0013,NatureFit Multivitamin Active,Wellness,NatureFit,No,500 g,2018-06-07,No,16.87,11.96
+PR0014,EuroRelief Paracetamol 40 mg,OTC,EuroRelief,No,30 tablets,2017-10-08,No,12.34,9.35
+PR0015,DermRx Inhaler 400 mg,Prescription,DermRx,Yes,50 g,2025-07-06,No,44.91,35.3
+PR0016,ColdAway Antacid 100 mg,OTC,ColdAway,No,10 tablets,2023-09-02,No,12.94,8.62
+PR0017,SmileBright Mouthwash Sensitive,Personal Care,SmileBright,No,75 ml,2017-06-14,No,5.01,3.78
+PR0018,AntiBioX Statin 10 mg,Prescription,AntiBioX,No,30 tablets,2023-06-20,No,40.36,32.86
+PR0019,NeuroMed Antidepressant 100 mg,Prescription,NeuroMed,No,5 pens,2020-12-27,No,64.29,53.54
+PR0020,VitaCare Vitamin C 400 mg,OTC,VitaCare,Yes,200 ml,2024-07-16,No,17.05,11.2
+PR0021,EuroRelief Antacid 200 mg,OTC,EuroRelief,No,15 lozenges,2016-09-18,No,13.32,9.56
+PR0022,HomeCheck Blood Pressure Monitor Compact,Medical Devices,HomeCheck,No,25 strips,2025-01-09,No,23.83,17.25
+PR0023,AllerFree Ibuprofen 100 mg,OTC,AllerFree,No,15 lozenges,2016-02-17,Yes,16.02,10.9
+PR0024,DermaSoft Moisturizer Classic,Personal Care,DermaSoft,No,100 ml,2025-10-15,No,17.86,12.53
+PR0025,AntiBioX ACE Inhibitor 400 mg,Prescription,AntiBioX,Yes,60 tablets,2023-09-16,No,79.96,58.19
+PR0026,SmileBright Sunscreen Sensitive,Personal Care,SmileBright,No,400 ml,2020-03-06,No,22.21,14.5
+PR0027,GlucoMeterX Digital Thermometer Smart,Medical Devices,GlucoMeterX,No,50 strips,2025-10-16,Yes,99.96,72.13
+PR0028,BioBalance Collagen Pure,Wellness,BioBalance,No,90 capsules,2017-12-06,Yes,16.66,11.34
+PR0029,EuroRelief Throat Lozenges 40 mg,OTC,EuroRelief,No,20 tablets,2020-12-21,Yes,9.95,7.11
+PR0030,DermaSoft Moisturizer Hydra,Personal Care,DermaSoft,No,250 ml,2020-02-12,Yes,14.11,8.81
+PR0031,GlucoMeterX Pulse Oximeter Smart,Medical Devices,GlucoMeterX,No,50 strips,2024-05-20,Yes,108.78,80.91
+PR0032,CardioPro Corticosteroid Cream 20 mg,Prescription,CardioPro,No,5 pens,2017-08-16,No,28.51,21.93
+PR0033,PainLess Paracetamol 400 mg,OTC,PainLess,Yes,100 ml,2024-04-17,No,15.35,11.34
+PR0034,AllerFree Allergy Tabs 100 mg,OTC,AllerFree,Yes,10 tablets,2018-06-07,No,11.51,7.98
+PR0035,FreshLine Sunscreen Fresh,Personal Care,FreshLine,No,400 ml,2023-10-09,No,2.06,1.43
+PR0036,BioBalance Probiotic Pure,Wellness,BioBalance,No,60 capsules,2018-02-24,Yes,32,21.24
+PR0037,FreshLine Mouthwash Fresh,Personal Care,FreshLine,No,100 ml,2016-05-15,No,4.2,2.91
+PR0038,ColdAway Paracetamol 200 mg,OTC,ColdAway,Yes,10 tablets,2025-03-30,No,5.68,3.99
+PR0039,BioBalance Probiotic Max,Wellness,BioBalance,No,500 g,2017-07-21,No,22.83,15.74
+PR0040,BioBalance Herbal Tea Pure,Wellness,BioBalance,No,30 capsules,2024-08-05,Yes,25.77,20.06
+PR0041,OncoAssist Antidepressant 40 mg,Prescription,OncoAssist,Yes,5 pens,2020-09-07,No,72.38,54.34
+PR0042,Medica Nasal Spray 400 mg,OTC,Medica,No,100 ml,2016-03-22,No,6.51,4.83
+PR0043,VitaCare Cough Syrup 40 mg,OTC,VitaCare,No,100 ml,2018-08-22,No,12.93,9.63
+PR0044,ImmunoPlus Zinc Pure,Wellness,ImmunoPlus,No,500 g,2023-07-16,No,25.7,16.35
+PR0045,ColdAway Throat Lozenges 10 mg,OTC,ColdAway,No,15 lozenges,2025-05-31,No,6.52,4.68
+PR0046,FreshLine Shampoo Sensitive,Personal Care,FreshLine,No,150 ml,2015-05-16,No,4.14,2.59
+PR0047,ImmunoPlus Omega-3 Pure,Wellness,ImmunoPlus,No,250 g,2019-02-27,No,14.09,9.12
+PR0048,Medica Cough Syrup 500 mg,OTC,Medica,No,20 tablets,2020-12-05,Yes,12.01,8.86
+PR0049,GlucoSafe Inhaler 200 mg,Prescription,GlucoSafe,Yes,60 tablets,2021-04-14,Yes,53.21,44.05
+PR0050,AllerFree Cough Syrup 400 mg,OTC,AllerFree,Yes,30 tablets,2023-02-25,No,8.19,6.68
+PR0051,RxNova Antibiotic 100 mg,Prescription,RxNova,No,50 g,2017-09-06,No,72.67,61.97
+PR0052,AllerFree Paracetamol 20 mg,OTC,AllerFree,Yes,10 tablets,2018-02-06,No,6.49,4.31
+PR0053,EuroRelief Vitamin C 400 mg,OTC,EuroRelief,No,30 tablets,2024-12-10,No,8.8,6.56
+PR0054,EuroRelief Paracetamol 20 mg,OTC,EuroRelief,No,10 tablets,2024-06-04,No,9.46,6.42
+PR0055,NeuroMed Inhaler 10 mg,Prescription,NeuroMed,No,1 pen,2018-04-04,No,79.76,67.81
+PR0056,BioBalance Collagen Pure,Wellness,BioBalance,No,250 g,2020-07-05,No,17.14,12.3
+PR0057,AntiBioX Corticosteroid Cream 100 mg,Prescription,AntiBioX,No,90 tablets,2021-10-24,No,38.14,32.28
+PR0058,NatureFit Zinc Pure,Wellness,NatureFit,No,60 capsules,2018-01-03,No,12.24,9.49
+PR0059,EuroRelief Allergy Tabs 20 mg,OTC,EuroRelief,No,200 ml,2016-08-03,No,10.32,6.97
+PR0060,GlucoSafe Antidepressant 40 mg,Prescription,GlucoSafe,No,60 tablets,2023-09-01,No,72.23,63.05
+PR0061,SmileBright Shampoo Fresh,Personal Care,SmileBright,No,250 ml,2021-02-08,No,2.88,2.14
+PR0062,MediTech First Aid Kit Home,Medical Devices,MediTech,No,25 strips,2015-07-05,Yes,59.57,51.16
+PR0063,Medica Allergy Tabs 500 mg,OTC,Medica,No,30 tablets,2019-08-26,No,4.07,2.65
+PR0064,GlucoSafe Insulin Pen 10 mg,Prescription,GlucoSafe,No,90 tablets,2024-12-15,No,21.33,15.95
+PR0065,CleanWave Hand Cream Repair,Personal Care,CleanWave,No,100 ml,2016-02-03,No,8.8,6.32
+PR0066,PainLess Nasal Spray 40 mg,OTC,PainLess,Yes,10 tablets,2019-04-12,No,10.95,7.2
+PR0067,CardioPro Corticosteroid Cream 20 mg,Prescription,CardioPro,No,1 pen,2025-02-05,No,19.28,14.02
+PR0068,Medica Throat Lozenges 500 mg,OTC,Medica,No,20 tablets,2017-01-24,Yes,12.19,9.88
+PR0069,CareEquip Knee Brace Home,Medical Devices,CareEquip,No,25 strips,2019-08-14,No,111.08,82.8
+PR0070,FreshLine Body Wash Bright,Personal Care,FreshLine,No,400 ml,2024-07-31,Yes,8.19,5.55
+PR0071,SkinGuard Toothpaste Classic,Personal Care,SkinGuard,No,75 ml,2022-03-22,No,18.85,12.77
+PR0072,NutriCore Herbal Tea Daily,Wellness,NutriCore,No,30 capsules,2022-01-12,No,27.83,17.5
+PR0073,DermaSoft Moisturizer Classic,Personal Care,DermaSoft,No,250 ml,2021-11-27,No,17.12,10.89
+PR0074,SmileBright Shampoo Repair,Personal Care,SmileBright,No,75 ml,2024-07-27,No,2.12,1.52
+PR0075,Medica Paracetamol 20 mg,OTC,Medica,No,30 tablets,2017-05-26,No,14.34,11.37
+PR0076,AntiBioX Antibiotic 10 mg,Prescription,AntiBioX,No,50 g,2022-07-21,No,50.7,39.68
+PR0077,PainLess Nasal Spray 10 mg,OTC,PainLess,No,100 ml,2017-08-05,No,9.03,7.21
+PR0078,ImmunoPlus Multivitamin Max,Wellness,ImmunoPlus,No,60 capsules,2024-11-14,No,22.98,16.28
+PR0079,PainLess Throat Lozenges 20 mg,OTC,PainLess,No,20 tablets,2018-07-17,No,13.62,10.68
+PR0080,CardioPro Inhaler 10 mg,Prescription,CardioPro,Yes,1 pen,2015-01-06,No,60.97,53.64
+PR0081,ZenHealth Collagen Max,Wellness,ZenHealth,No,250 g,2023-04-10,No,16.51,11.61
+PR0082,AntiBioX Insulin Pen 200 mg,Prescription,AntiBioX,No,50 g,2019-03-10,No,27.66,22.21
+PR0083,CleanWave Body Wash Hydra,Personal Care,CleanWave,No,150 ml,2019-04-06,No,12.62,8.41
+PR0084,HerbaLife Collagen Active,Wellness,HerbaLife,No,90 capsules,2020-12-12,No,18.11,13.24
+PR0085,DigestEase Nasal Spray 200 mg,OTC,DigestEase,No,15 lozenges,2024-06-11,No,7.24,4.76
+PR0086,PainLess Throat Lozenges 400 mg,OTC,PainLess,Yes,15 lozenges,2023-04-24,No,9.43,7.48
+PR0087,VitaCare Paracetamol 500 mg,OTC,VitaCare,Yes,100 ml,2016-08-11,Yes,7.73,6.04
+PR0088,GlucoMeterX Blood Pressure Monitor Pro,Medical Devices,GlucoMeterX,No,25 strips,2019-02-05,No,96.65,78.52
+PR0089,BioBalance Zinc Plus,Wellness,BioBalance,No,90 capsules,2023-01-18,No,14.26,10.99
+PR0090,CleanWave Shampoo Bright,Personal Care,CleanWave,No,100 ml,2023-07-22,No,14.04,8.43
+PR0091,BioBalance Herbal Tea Max,Wellness,BioBalance,No,60 capsules,2023-02-10,No,19.54,12.31
+PR0092,NeuroMed Antidepressant 100 mg,Prescription,NeuroMed,No,50 g,2025-07-14,No,66.06,52.42
+PR0093,DigestEase Antacid 10 mg,OTC,DigestEase,No,100 ml,2024-07-31,No,14.35,10.59
+PR0094,ImmunoPlus Multivitamin Max,Wellness,ImmunoPlus,No,90 capsules,2016-09-24,Yes,33.4,23.41
+PR0095,GlucoSafe ACE Inhibitor 400 mg,Prescription,GlucoSafe,No,50 g,2017-05-19,No,34.78,27.56
+PR0096,ColdAway Paracetamol 10 mg,OTC,ColdAway,No,100 ml,2024-08-25,Yes,7.15,5.03
+PR0097,BioBalance Multivitamin Daily,Wellness,BioBalance,No,250 g,2016-11-08,No,9.98,7.09
+PR0098,ImmunoPlus Probiotic Pure,Wellness,ImmunoPlus,No,250 g,2020-03-09,No,29.61,19.44
+PR0099,HairEssence Mouthwash Sensitive,Personal Care,HairEssence,No,150 ml,2018-12-06,No,24.63,17.25
+PR0100,HomeCheck First Aid Kit Smart,Medical Devices,HomeCheck,No,50 strips,2016-10-05,No,71.57,56.89
+PR0101,ThermoSense Pulse Oximeter Home,Medical Devices,ThermoSense,No,25 strips,2023-11-02,No,111,79.91
+PR0102,FreshLine Shampoo Hydra,Personal Care,FreshLine,No,250 ml,2024-08-05,Yes,20.84,15.39
+PR0103,AllerFree Cough Syrup 10 mg,OTC,AllerFree,No,30 tablets,2020-01-05,No,9.76,7.59
+PR0104,HairEssence Mouthwash Classic,Personal Care,HairEssence,No,400 ml,2022-12-15,Yes,2.72,1.94
+PR0105,Medica Nasal Spray 10 mg,OTC,Medica,No,30 tablets,2019-03-25,No,13.41,9.89
+PR0106,DermRx Antibiotic 40 mg,Prescription,DermRx,No,30 tablets,2016-03-01,No,63.16,53.44
+PR0107,SkinGuard Mouthwash Classic,Personal Care,SkinGuard,No,400 ml,2022-03-19,Yes,10.96,7.11
+PR0108,OrthoSupport Glucose Test Strips Compact,Medical Devices,OrthoSupport,No,1 unit,2021-06-16,No,14.62,12.18
+PR0109,HairEssence Body Wash Classic,Personal Care,HairEssence,No,250 ml,2023-11-23,No,18.08,13.22
+PR0110,ZenHealth Collagen Daily,Wellness,ZenHealth,No,500 g,2025-11-03,Yes,21.22,13.1
+PR0111,RxNova Corticosteroid Cream 500 mg,Prescription,RxNova,Yes,30 tablets,2024-03-08,No,29.59,24.82
+PR0112,CleanWave Shampoo Hydra,Personal Care,CleanWave,No,100 ml,2015-12-03,No,24.75,17.14
+PR0113,PainLess Paracetamol 20 mg,OTC,PainLess,No,200 ml,2019-09-09,No,6.78,4.66
+PR0114,NatureFit Omega-3 Plus,Wellness,NatureFit,No,500 g,2023-03-26,No,25.83,15.88
+PR0115,PainLess Throat Lozenges 20 mg,OTC,PainLess,No,100 ml,2018-06-12,No,14.83,11.25
+PR0116,HerbaLife Multivitamin Active,Wellness,HerbaLife,No,60 capsules,2020-06-22,No,19.19,14.91
+PR0117,Medica Antacid 10 mg,OTC,Medica,No,30 tablets,2015-03-08,No,5.1,3.55
+PR0118,AntiBioX Antibiotic 200 mg,Prescription,AntiBioX,No,50 g,2018-12-01,No,69.5,50.59
+PR0119,AntiBioX Antidepressant 200 mg,Prescription,AntiBioX,Yes,60 tablets,2019-01-09,No,29.13,25.32
+PR0120,SmileBright Body Wash Classic,Personal Care,SmileBright,No,100 ml,2024-11-28,No,2.68,1.88
+PR0121,GlucoMeterX Digital Thermometer Compact,Medical Devices,GlucoMeterX,No,10 strips,2015-10-07,No,55.21,47.67
+PR0122,GlucoMeterX Digital Thermometer Smart,Medical Devices,GlucoMeterX,No,50 strips,2016-02-04,No,101.25,71.61
+PR0123,OncoAssist Antibiotic 400 mg,Prescription,OncoAssist,Yes,1 pen,2017-09-07,No,47.57,41.1
+PR0124,AntiBioX ACE Inhibitor 400 mg,Prescription,AntiBioX,No,90 tablets,2025-12-13,No,51.11,40.91
+PR0125,ImmunoPlus Magnesium Daily,Wellness,ImmunoPlus,No,90 capsules,2022-02-17,No,27.23,18.94
+PR0126,FreshLine Body Wash Classic,Personal Care,FreshLine,No,100 ml,2015-09-23,No,3.94,2.57
+PR0127,HairEssence Moisturizer Hydra,Personal Care,HairEssence,No,400 ml,2020-10-12,Yes,11.89,8.34
+PR0128,SkinGuard Body Wash Repair,Personal Care,SkinGuard,No,75 ml,2023-06-04,No,23.08,15.18
+PR0129,OncoAssist Statin 10 mg,Prescription,OncoAssist,No,1 pen,2017-10-18,No,11.22,9.45
+PR0130,ZenHealth Collagen Balance,Wellness,ZenHealth,No,90 capsules,2016-04-24,No,14.34,10.35
+PR0131,MediTech First Aid Kit Compact,Medical Devices,MediTech,No,1 unit,2025-03-18,No,25.46,20.05
+PR0132,NutriCore Multivitamin Active,Wellness,NutriCore,No,90 capsules,2017-02-06,No,11.27,8.64
+PR0133,SmileBright Hand Cream Fresh,Personal Care,SmileBright,No,150 ml,2017-07-06,No,21.22,13.72
+PR0134,ImmunoPlus Probiotic Plus,Wellness,ImmunoPlus,No,500 g,2024-10-04,Yes,13.65,10.55
+PR0135,NutriCore Probiotic Plus,Wellness,NutriCore,No,500 g,2017-03-10,No,21.25,15.66
+PR0136,SmileBright Body Wash Fresh,Personal Care,SmileBright,No,100 ml,2024-05-18,No,13.67,9.6
+PR0137,ZenHealth Probiotic Daily,Wellness,ZenHealth,No,500 g,2017-01-03,No,18.32,13.06
+PR0138,OrthoSupport Digital Thermometer Pro,Medical Devices,OrthoSupport,No,10 strips,2019-04-22,Yes,32.14,24.78
+PR0139,EuroRelief Antacid 400 mg,OTC,EuroRelief,No,200 ml,2021-12-05,No,9.88,6.49
+PR0140,FreshLine Shampoo Bright,Personal Care,FreshLine,No,250 ml,2018-06-23,No,23.71,14.39
+PR0141,DermRx Insulin Pen 200 mg,Prescription,DermRx,No,90 tablets,2017-05-14,No,44.81,35.79
+PR0142,GlucoSafe Insulin Pen 100 mg,Prescription,GlucoSafe,No,1 pen,2022-04-13,No,66.07,52.61
+PR0143,RxNova ACE Inhibitor 500 mg,Prescription,RxNova,Yes,90 tablets,2025-12-20,Yes,40.28,32.29
+PR0144,HairEssence Sunscreen Bright,Personal Care,HairEssence,No,400 ml,2019-12-02,No,22.06,14.89
+PR0145,NeuroMed Corticosteroid Cream 200 mg,Prescription,NeuroMed,No,90 tablets,2021-07-03,No,79.84,66.13
+PR0146,DermaSoft Sunscreen Sensitive,Personal Care,DermaSoft,No,150 ml,2015-04-03,Yes,2.13,1.59
+PR0147,NatureFit Omega-3 Max,Wellness,NatureFit,No,250 g,2017-12-13,No,17.21,10.53
+PR0148,CareEquip Pulse Oximeter Advance,Medical Devices,CareEquip,No,10 strips,2020-12-02,Yes,67.48,50.87
+PR0149,AllerFree Throat Lozenges 100 mg,OTC,AllerFree,Yes,20 tablets,2021-11-22,No,7.22,5.68
+PR0150,AntiBioX Inhaler 200 mg,Prescription,AntiBioX,No,50 g,2023-09-22,No,78.49,64.09
+PR0151,DigestEase Allergy Tabs 40 mg,OTC,DigestEase,No,100 ml,2016-12-14,No,12.37,8.19
+PR0152,HairEssence Hand Cream Repair,Personal Care,HairEssence,No,150 ml,2016-02-24,Yes,23.09,16.39
+PR0153,ZenHealth Probiotic Daily,Wellness,ZenHealth,No,30 capsules,2016-06-06,No,14.53,8.72
+PR0154,CareEquip Digital Thermometer Advance,Medical Devices,CareEquip,No,25 strips,2025-07-30,No,91.5,69.26
+PR0155,Medica Cough Syrup 400 mg,OTC,Medica,Yes,100 ml,2020-08-12,No,16.61,13.46
+PR0156,NatureFit Omega-3 Active,Wellness,NatureFit,No,500 g,2021-05-21,No,16.63,11.87
+PR0157,SmileBright Shampoo Repair,Personal Care,SmileBright,No,400 ml,2019-04-19,No,23.87,16.86
+PR0158,NutriCore Omega-3 Plus,Wellness,NutriCore,No,500 g,2017-02-14,No,19.96,13.36
+PR0159,DermaSoft Moisturizer Sensitive,Personal Care,DermaSoft,No,150 ml,2023-09-06,No,11.58,8.43
+PR0160,DermRx ACE Inhibitor 10 mg,Prescription,DermRx,No,5 pens,2018-02-03,No,10.59,8.29
+PR0161,GlucoSafe Antibiotic 20 mg,Prescription,GlucoSafe,No,50 g,2017-09-17,No,22.34,19.27
+PR0162,VitaCare Antacid 10 mg,OTC,VitaCare,Yes,20 tablets,2020-01-04,No,3.22,2.3
+PR0163,HomeCheck Digital Thermometer Smart,Medical Devices,HomeCheck,No,1 unit,2023-04-26,No,109.67,82.03
+PR0164,HerbaLife Probiotic Daily,Wellness,HerbaLife,No,250 g,2025-05-16,No,13.02,8.33
+PR0165,EuroRelief Allergy Tabs 40 mg,OTC,EuroRelief,No,200 ml,2015-07-26,No,6.98,4.56
+PR0166,Medica Vitamin C 10 mg,OTC,Medica,Yes,30 tablets,2023-11-08,Yes,12.95,9.62
+PR0167,DermaSoft Sunscreen Bright,Personal Care,DermaSoft,No,400 ml,2016-12-13,Yes,8.97,5.31
+PR0168,FreshLine Toothpaste Repair,Personal Care,FreshLine,No,250 ml,2018-02-11,No,24.77,15.43
+PR0169,ThermoSense Knee Brace Home,Medical Devices,ThermoSense,No,1 unit,2024-01-26,No,34.79,25.58
+PR0170,SkinGuard Sunscreen Classic,Personal Care,SkinGuard,No,400 ml,2015-01-15,No,24.58,16.59
+PR0171,OrthoSupport Nebulizer Home,Medical Devices,OrthoSupport,No,1 unit,2018-04-09,No,85.9,70.8
+PR0172,DermRx ACE Inhibitor 400 mg,Prescription,DermRx,Yes,60 tablets,2019-06-06,No,25.42,20.34
+PR0173,OrthoSupport Blood Pressure Monitor Pro,Medical Devices,OrthoSupport,No,50 strips,2022-12-13,No,60.45,48.42
+PR0174,Medica Ibuprofen 500 mg,OTC,Medica,No,30 tablets,2025-08-02,No,8.88,6.77
+PR0175,HomeCheck Blood Pressure Monitor Home,Medical Devices,HomeCheck,No,25 strips,2024-06-02,Yes,38.55,30.02
+PR0176,ColdAway Cough Syrup 20 mg,OTC,ColdAway,No,20 tablets,2016-07-08,No,13.47,9.66
+PR0177,PainLess Throat Lozenges 10 mg,OTC,PainLess,Yes,10 tablets,2016-06-22,No,9.87,7.73
+PR0178,NutriCore Omega-3 Daily,Wellness,NutriCore,No,500 g,2019-08-10,No,16.31,11.41
+PR0179,CardioPro Inhaler 500 mg,Prescription,CardioPro,Yes,90 tablets,2018-09-22,No,10.1,8.05
+PR0180,NeuroMed Statin 500 mg,Prescription,NeuroMed,No,30 tablets,2017-03-17,Yes,62.79,48.94
+PR0181,CardioPro Corticosteroid Cream 200 mg,Prescription,CardioPro,No,1 pen,2015-02-01,No,35.82,29.08
+PR0182,AllerFree Nasal Spray 10 mg,OTC,AllerFree,Yes,30 tablets,2025-02-04,No,6.31,4.14
+PR0183,AllerFree Ibuprofen 20 mg,OTC,AllerFree,No,30 tablets,2017-03-13,No,11.45,8.27
+PR0184,OncoAssist Inhaler 100 mg,Prescription,OncoAssist,No,5 pens,2018-08-09,Yes,38.2,32.27
+PR0185,OncoAssist Corticosteroid Cream 10 mg,Prescription,OncoAssist,No,90 tablets,2017-08-27,No,12.97,11.29
+PR0186,SmileBright Moisturizer Fresh,Personal Care,SmileBright,No,150 ml,2025-03-08,No,19.74,13.78
+PR0187,ImmunoPlus Collagen Pure,Wellness,ImmunoPlus,No,500 g,2023-12-22,No,16.75,11.7
+PR0188,RxNova Statin 100 mg,Prescription,RxNova,Yes,5 pens,2024-02-07,No,29.88,22.62
+PR0189,FreshLine Mouthwash Sensitive,Personal Care,FreshLine,No,150 ml,2019-09-16,No,19.46,13.42
+PR0190,HairEssence Shampoo Bright,Personal Care,HairEssence,No,400 ml,2024-01-22,No,24.99,16.32
+PR0191,AntiBioX ACE Inhibitor 500 mg,Prescription,AntiBioX,No,60 tablets,2023-01-11,No,59.07,44.11
+PR0192,HerbaLife Probiotic Plus,Wellness,HerbaLife,No,250 g,2024-04-11,No,33.48,23.9
+PR0193,DermaSoft Body Wash Repair,Personal Care,DermaSoft,No,100 ml,2021-11-06,No,23.46,17.1
+PR0194,CareEquip First Aid Kit Advance,Medical Devices,CareEquip,No,1 unit,2024-05-20,No,40.15,33.94
+PR0195,ColdAway Nasal Spray 20 mg,OTC,ColdAway,No,10 tablets,2015-03-26,Yes,13.91,10.37
+PR0196,ColdAway Paracetamol 200 mg,OTC,ColdAway,Yes,100 ml,2016-07-04,No,4.87,3.83
+PR0197,NutriCore Magnesium Max,Wellness,NutriCore,No,30 capsules,2019-11-16,No,21.03,14.66
+PR0198,SmileBright Hand Cream Classic,Personal Care,SmileBright,No,400 ml,2018-04-12,No,11.12,6.71
+PR0199,DermRx Insulin Pen 200 mg,Prescription,DermRx,No,50 g,2017-03-18,No,52.99,43
+PR0200,ColdAway Ibuprofen 200 mg,OTC,ColdAway,Yes,200 ml,2015-05-25,No,7.6,5.4
+PR0201,SmileBright Hand Cream Classic,Personal Care,SmileBright,No,100 ml,2019-11-02,No,8.57,5.64
+PR0202,DigestEase Nasal Spray 200 mg,OTC,DigestEase,No,15 lozenges,2020-08-20,No,14,9.38
+PR0203,VitaCare Allergy Tabs 400 mg,OTC,VitaCare,No,20 tablets,2025-07-23,No,9.75,7.96
+PR0204,PainLess Ibuprofen 20 mg,OTC,PainLess,Yes,100 ml,2017-10-02,No,9.34,6.62
+PR0205,BioBalance Multivitamin Active,Wellness,BioBalance,No,60 capsules,2024-08-17,No,23.11,14.19
+PR0206,Medica Vitamin C 10 mg,OTC,Medica,No,100 ml,2020-03-06,No,4.38,3.26
+PR0207,VitaCare Ibuprofen 200 mg,OTC,VitaCare,No,15 lozenges,2018-01-19,No,7.69,5.35
+PR0208,VitaCare Antacid 100 mg,OTC,VitaCare,Yes,30 tablets,2016-09-13,No,16.24,11.12
+PR0209,RxNova Antidepressant 10 mg,Prescription,RxNova,No,30 tablets,2020-06-17,No,40.42,35.3
+PR0210,ZenHealth Herbal Tea Active,Wellness,ZenHealth,No,90 capsules,2018-11-09,No,31.7,19.5
+PR0211,NeuroMed Antibiotic 200 mg,Prescription,NeuroMed,No,30 tablets,2025-01-03,No,25.43,21.21
+PR0212,FreshLine Mouthwash Sensitive,Personal Care,FreshLine,No,100 ml,2016-03-26,No,2.36,1.4
+PR0213,BioBalance Herbal Tea Active,Wellness,BioBalance,No,60 capsules,2022-03-10,No,29.15,21.81
+PR0214,ZenHealth Herbal Tea Balance,Wellness,ZenHealth,No,60 capsules,2015-12-01,Yes,17.82,11.35
+PR0215,MediTech Blood Pressure Monitor Smart,Medical Devices,MediTech,No,50 strips,2020-10-08,No,55.25,47.36
+PR0216,GlucoSafe Insulin Pen 20 mg,Prescription,GlucoSafe,No,60 tablets,2023-04-22,No,67.38,51.67
+PR0217,NutriCore Magnesium Max,Wellness,NutriCore,No,250 g,2020-02-25,No,11.3,7.35
+PR0218,PainLess Antacid 20 mg,OTC,PainLess,Yes,20 tablets,2017-03-04,Yes,17.14,13.32
+PR0219,GlucoSafe Antibiotic 10 mg,Prescription,GlucoSafe,No,60 tablets,2018-08-25,No,46.56,36.18
+PR0220,HairEssence Mouthwash Hydra,Personal Care,HairEssence,No,75 ml,2015-01-21,No,16.54,10.71
