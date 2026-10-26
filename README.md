@@ -1,6 +1,6 @@
  European Pharmacy Sales & Operations Analysis
 
-## 🎯 Executive Summary
+ Executive Summary
 This project presents an end-to-end data analytics solution for a European pharmacy network. By leveraging *MySQL* for data querying and *Power BI* for visual analytics, the goal is to transform raw operational data into actionable business insights—focusing on revenue streams, product profitability, and sales performance across time and store locations.
 
 
